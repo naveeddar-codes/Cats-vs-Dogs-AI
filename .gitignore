@@ -1,0 +1,5 @@
+venv/
+Cat/
+Dog/
+__pycache__/
+static/uploads/
